@@ -43,3 +43,10 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=achantbaliyan267&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&theme=react-dark" alt="Activity Graph" width="100%" />
 </p>
+
+<br>
+
+<h3 align="center">🔥 GitHub Streak</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=achantbaliyan267&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
+</p>
