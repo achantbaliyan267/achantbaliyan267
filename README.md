@@ -9,13 +9,13 @@
   <table border="0" style="border: none; background-color: transparent;">
     <tr style="border: none;">
       <td width="60%" style="border: none; background-color: transparent;">
-        <ul style="list-style-type: none;">
-          <li>🎓 <b>Education:</b> BCA Graduate (2025) & Full-Stack Web Developer</li>
-          <li>💼 <b>Experience:</b> Web Developer at Digital Reach & JBIT College</li>
-          <li>🚀 <b>Projects:</b> Built official sites for IMT Hyderabad & DJ Dental</li>
-          <li>🌱 <b>Tech Stack:</b> MERN Stack, PHP, MySQL, & Salesforce</li>
-          <li>👯 <b>Collaboration:</b> Always open to impactful web solutions</li>
-        </ul>
+        <p>
+          <img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="20" align="absmiddle" /> <b>Education:</b> BCA Graduate (2025) & Full-Stack Web Developer <br><br>
+          <img src="https://img.icons8.com/fluency/48/briefcase.png" width="20" align="absmiddle" /> <b>Experience:</b> Web Developer at Digital Reach & JBIT College <br><br>
+          <img src="https://img.icons8.com/fluency/48/rocket.png" width="20" align="absmiddle" /> <b>Projects:</b> Built official sites for IMT Hyderabad & DJ Dental <br><br>
+          <img src="https://img.icons8.com/fluency/48/code.png" width="20" align="absmiddle" /> <b>Tech Stack:</b> MERN Stack, PHP, MySQL, & Salesforce <br><br>
+          <img src="https://img.icons8.com/fluency/48/handshake.png" width="20" align="absmiddle" /> <b>Collaboration:</b> Always open to impactful web solutions
+        </p>
         <br>
         <img src="https://komarev.com/ghpvc/?username=achantbaliyan267&label=visitors&color=28a745&style=flat-square" alt="Visitors" />
         <br><br>
