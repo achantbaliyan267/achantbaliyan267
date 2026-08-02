@@ -1,5 +1,6 @@
   <h2>🥳 Hey Everyone, I'm Achant Baliyan</h2>
   <h3>💻 Welcome to My GitHub Universe!</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Building+Impactful+Web+Solutions;Passionate+about+Coding" alt="Typing SVG" />
 
 <br>
 
@@ -22,7 +23,7 @@
         <a href="https://achant.is-best.net/"><img src="https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=mac-os&logoColor=white" alt="Portfolio" /></a>
       </td>
       <td width="40%" style="border: none; background-color: transparent;" align="center">
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding GIF" />
+        <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="350" style="border-radius: 15px;" alt="Coding GIF" />
       </td>
     </tr>
   </table>
