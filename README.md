@@ -35,21 +35,26 @@
 <h3 align="center">AchantBaliyan267 (Achant)</h3>
 <p align="center">
   <a href="https://github.com/achantbaliyan267">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=achantbaliyan267&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&theme=react-dark" alt="Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=achantbaliyan267&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&theme=react-dark&v=2" alt="Activity Graph" width="100%" />
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achantbaliyan267&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achantbaliyan267&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="48%" />
-</div>
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <a href="https://github.com/achantbaliyan267">
+    <img src="https://github-readme-stats.vercel.app/api?username=achantbaliyan267&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&v=2" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/achantbaliyan267">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achantbaliyan267&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&v=2" alt="Top Languages" width="48%" />
+  </a>
+</p>
 
 <br>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=achantbaliyan267&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=achantbaliyan267&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=2" alt="Trophies" />
   </a>
 </p>
 
@@ -58,6 +63,6 @@
 <h3 align="center">Achant's Contribution Graph</h3>
 <p align="center">
   <a href="https://github.com/achantbaliyan267">
-    <img src="https://streak-stats.demolab.com?user=achantbaliyan267&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
+    <img src="https://streak-stats.demolab.com/?user=achantbaliyan267&theme=tokyonight&hide_border=true&background=0D1117&v=2" alt="GitHub Streak" width="100%" />
   </a>
 </p>
