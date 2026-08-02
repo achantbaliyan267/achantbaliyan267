@@ -1,6 +1,6 @@
 <div align="center">
-  <h2>🥳 Hey Everyone, I'm Achant Baliyan</h2>
-  <h3>💻 Welcome to My GitHub Universe!</h3>
+  <h2><img src="https://img.icons8.com/fluency/48/waving-hand.png" width="35" align="absmiddle" /> Hey Everyone, I'm Achant Baliyan</h2>
+  <h3><img src="https://img.icons8.com/fluency/48/macbook-idea.png" width="28" align="absmiddle" /> Welcome to My GitHub Universe!</h3>
 </div>
 
 <br>
@@ -32,7 +32,7 @@
 
 <br>
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+<h3 align="center"><img src="https://img.icons8.com/fluency/48/tools.png" width="28" align="absmiddle" /> Languages & Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,php,mysql,wordpress,git,github,vscode&perline=15" />
@@ -41,14 +41,14 @@
 
 <br>
 
-<h3 align="center">Achant's Coding Activity</h3>
+<h3 align="center"><img src="https://img.icons8.com/fluency/48/line-chart.png" width="28" align="absmiddle" /> Achant's Coding Activity</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=achantbaliyan267&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&theme=react-dark" alt="Activity Graph" width="100%" />
 </p>
 
 <br>
 
-<h3 align="center">🔥 GitHub Streak</h3>
+<h3 align="center"><img src="https://img.icons8.com/fluency/48/fire-element.png" width="28" align="absmiddle" /> GitHub Streak</h3>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=achantbaliyan267&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
 </p>
