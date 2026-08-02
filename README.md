@@ -23,7 +23,7 @@
         <a href="https://achant.is-best.net/"><img src="https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=mac-os&logoColor=white" alt="Portfolio" /></a>
       </td>
       <td width="40%" style="border: none; background-color: transparent;" align="center">
-        <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="350" style="border-radius: 15px;" alt="Coding GIF" />
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding GIF" />
       </td>
     </tr>
   </table>
